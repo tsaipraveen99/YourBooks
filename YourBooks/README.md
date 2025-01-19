@@ -1,4 +1,3 @@
-                               Arch Book Publishing Platform
 
 YourBooks publishing platform is a web-based platform designed to empower authors to elevate their skills and reach millions of book readers worldwide. The platform provides tools for authors to publish, promote, and manage their books, while connecting them with a global audience of book lovers and industry professionals.
 
